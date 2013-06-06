@@ -1,0 +1,1 @@
+../phtsina.rb

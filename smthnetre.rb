@@ -1,0 +1,1 @@
+../smthnetre.rb
